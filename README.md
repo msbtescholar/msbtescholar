@@ -37,8 +37,8 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/#/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+<a href="https://www.instagram.com/msbtescholar/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white">
 </a>
 
 <a href="https://www.msbtescholar.com" target="_blank">
