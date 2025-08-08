@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Everyone , I'm MSBTE Scholar</h2>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey guys, Welcome to MSBTE Scholar</h2>
 
 <p align="center">
 
@@ -18,16 +18,16 @@
 
 <div align="start">
 
-  ![](https://komarev.com/ghpvc/?username=aryaaaaaS&style=flat&color=brightgreen)
+  ![](https://komarev.com/ghpvc/?username=msbtescholar&style=flat&color=brightgreen)
 
 </div>
 
 <div align="start">
   
-<a href="mailto:aryaaakiran8106@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arya-shendge-011a11328/)
+<a href="mailto:msbtescholar.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/#/)
 <a href="https://www.flaticon.com/free-icons/curriculum-vitae" title="curriculum vitae icons"></a>
-<a href="https://arya-dev-three.vercel.app/" target="_blank">
+<a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-1A1A1A.svg?logo=vercel&logoColor=white">
 </a>
 </div>
@@ -36,16 +36,14 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryaaaaaS&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryaaaaaS&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryaaaaaS&theme=github_dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryaaaaaS&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryaaaaaS&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msbtescholar&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=msbtescholar&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msbtescholar&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msbtescholar&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msbtescholar&theme=github_dark)
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=AndroidWithRossyn&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
 </p>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryaaaaaS&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/aryaaaaaS/github-readme-activity-graph)
 
 </div>
 
