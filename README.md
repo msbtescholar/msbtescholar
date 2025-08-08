@@ -4,9 +4,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=36&pause=1000&color=40c463&center=true&vCenter=true&width=1200&lines=📱+Empowering+MSBTE+Polytechnic+Students!;🧠+Smart+Learning+Tools+%7C+MSBTE+Notes+%7C+Android+Apps;🌐+Visit+www.msbtescholar.com+for+More!"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=40c463&center=true&vCenter=true&width=800&lines=📱+Empowering+MSBTE+Students;💡+Smart+Android+Apps+for+Polytechnic;🌐+www.msbtescholar.com" alt="Typing Banner"/>
 </p>
 
 ---
