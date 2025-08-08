@@ -15,7 +15,7 @@
 
 **MSBTE Scholar** is a digital initiative designed to empower **Polytechnic students in Maharashtra (MSBTE)** by offering:
 
-- 📱 Free Android apps tailored to MSBTE curriculum  
+- 📱 Free study content tailored to MSBTE curriculum  
 - 📘 Study resources like notes, model answers, MCQs & syllabi  
 - 🌐 Official website: [www.msbtescholar.com](https://www.msbtescholar.com)  
 - 💻 Tools & services to simplify online learning and exam prep  
@@ -53,7 +53,7 @@
 
 | Project Name | Description |
 |--------------|-------------|
-| **MSBTE Scholar App** | 📲 Android app with offline notes, syllabus, MCQs, solved papers & more for diploma students |
+| **MSBTE Scholar**  | 📲 Android app with offline notes, syllabus, MCQs, solved papers & more for diploma students |
 | **Online MCQ Test System** | 🧠 Practice MSBTE subject-wise quizzes with auto-scoring |
 | **Syllabus Tracker** | 📋 Interactive tool to track unit-wise progress for MSBTE subjects |
 | **Result Alert Bot** *(Coming Soon)* | 📢 Get notified instantly when MSBTE results are out! |
